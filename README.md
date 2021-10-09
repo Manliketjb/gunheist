@@ -1,5 +1,5 @@
 # qb-gunheist
-qb-gunheist fixed and *slightly* updated for QBCore by Manliketjb
+qb-gunheist fixed and *slightly* updated for QBCore by Manliketjb (no npc)
 
 ---
 
