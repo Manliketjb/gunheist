@@ -12,7 +12,7 @@ add to qb-core/shared.lua
 ```
 ---
 
-add images to inventory/html/images
+add images to inventory/html/images (High chance the images are all ready in the qb/aj-inventory but are not used)
 
 ---
 
